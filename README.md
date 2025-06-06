@@ -1,23 +1,30 @@
 # IPL Data Analysis Project
 
-This project focuses on analyzing IPL (Indian Premier League) data to derive meaningful insights using Python and various data analysis libraries like pandas, matplotlib, and seaborn.
+This project explores IPL (Indian Premier League) data from 2008 to 2020, focusing on match-level and player-level insights using Python and Power BI. It combines Python-based data analysis with interactive Power BI dashboards to offer comprehensive and visually rich interpretations.
 
 ## 📌 Objectives
-- Analyze team performances and trends
-- Identify top players based on different metrics
-- Explore match outcomes and venue impacts
+- Analyze team performances across seasons
+- Visualize player statistics and consistency
+- Explore match outcomes, toss impact, and venue advantages
+- Complement Python insights with advanced Power BI visualizations
 
 ## 📂 Dataset
-IPL match and delivery datasets (usually obtained from [Kaggle](https://www.kaggle.com/datasets)).
+- **Source:** [IPL Complete Dataset (2008–2020) on Kaggle](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020)
+- Contains `matches.csv` and `deliveries.csv` used for analysis.
 
 ## 🔧 Technologies Used
-- Python
-- pandas
-- matplotlib
-- seaborn
+- Python (pandas, matplotlib, seaborn, Jupyter Notebook)
+- Power BI (for dashboard-based insights)
 
-## 📊 Key Insights
-- Visualized win distributions by teams
-- Identified most consistent players and their performance metrics
-- Analyzed toss vs match win relationships
+## 📊 Key Deliverables
+- **Exploratory data analysis** including:
+  - Team-wise win/loss stats
+  - Toss vs match win correlation
+  - Top scorers, wicket-takers, and consistent performers
+- **Power BI Dashboard**: Interactive visualizations covering:
+  - Season-wise performance comparisons
+  - Player impact metrics
+  - Venue-specific trends
+
+
 
