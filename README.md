@@ -10,7 +10,6 @@ This project explores IPL (Indian Premier League) data from 2008 to 2020, focusi
 
 ## 📂 Dataset
 - **Source:** [IPL Complete Dataset (2008–2020) on Kaggle](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020)
-- Contains `matches.csv` and `deliveries.csv` used for analysis.
 
 ## 🔧 Technologies Used
 - Python (pandas, matplotlib, seaborn, Jupyter Notebook)
@@ -25,6 +24,11 @@ This project explores IPL (Indian Premier League) data from 2008 to 2020, focusi
   - Season-wise performance comparisons
   - Player impact metrics
   - Venue-specific trends
+
+![image](https://github.com/user-attachments/assets/87dad743-25b9-4ea9-b22f-f942b886cc41)
+![image](https://github.com/user-attachments/assets/5b896bf1-da4d-4183-9e28-87300d42eb3e)
+![image](https://github.com/user-attachments/assets/7e8919a7-c849-4b63-958b-724ebc931c53)
+
 
 
 
